@@ -29,3 +29,7 @@ This project utilizes **UiPath**, a Robotic Process Automation (RPA) tool, to au
 This project demonstrates the power of RPA in optimizing email workflows. By automating repetitive tasks like spam detection, it minimizes human intervention, improves productivity, and provides valuable insights for strategic decision-making. Future enhancements could include refining spam detection algorithms for better accuracy and incorporating an unsubscribe feature for managing unwanted communications more effectively.  
 
 With a robust and adaptable design, this solution serves as a foundation for modern email management, empowering users to handle large volumes of email data effortlessly while maintaining security and efficiency.  
+
+
+Only Contains main file 
+
